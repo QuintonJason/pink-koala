@@ -3,3 +3,11 @@
 body {
     background-image: url(../img/high-resolution-ocean-sunset-photo-l.jpg);
 }
+
+.pink-koala-image-wrapper {
+    text-align: center;
+}
+
+.pink-koala-image-wrapper img {
+    width: 200px;
+}
